@@ -1,3 +1,10 @@
-# ByeMC Podcasts. 
+---
+title: Home
+layout: default
+---
 
-Coming soon. 
+## Yet Another Game Dev Podcast
+
+A podcast by game devs, for game devs.
+
+[Site](yagdp/)
